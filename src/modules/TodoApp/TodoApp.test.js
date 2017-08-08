@@ -7,6 +7,3 @@ it('renders without crashing', () => {
     ReactDOM.render(<TodoApp />, div);
 });
 
-it('adds two numbers together', () => {
-    expect(1).toEqual(1);
-});

@@ -9,11 +9,9 @@ body {
 }
 
 .todo-app {
-    padding: 1em;
 }
 
 .todo-form {
-    display: flex;
 }
 
 .todo-form input {
