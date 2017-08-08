@@ -1,0 +1,11 @@
+{
+    "editor.tabSize": 4,
+    "editor.renderWhiteSpace": "boundary",
+    "editor.lineNumbers": "on",
+    "editor.insertSpaces": true,
+    "editor.minimap.enabled": true,
+    "files.exclude": {
+        "**/node_modules": true,
+        "build": true,
+        "coverage": true
+}
