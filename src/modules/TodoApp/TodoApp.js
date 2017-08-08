@@ -36,7 +36,7 @@ class TodoApp extends React.Component {
         // Render JSX
         return (
             <div className="todo-app">
-		<h1>TodoApp</h1>
+		        <h1>TodoApp</h1>
             </div>
         );
 
