@@ -1,3 +1,4 @@
+/* eslint no-useless-constructor:0 */
 import React from 'react';
 
 /**
@@ -22,7 +23,7 @@ class TodoApp extends React.Component {
 
     /**
      * Removes a todo by id
-     * @param Integer id 
+     * @param Integer id
      */
     handleRemove(id) {
     }
